@@ -1,15 +1,17 @@
-# Custom Response-ish App
+# Slack Custom Response App
 
 This app demonstrates how to build something similar to Slack's custom response feature.
 
 Once your app is installed in a Slack workspace, end-users can access the app's Home tab.
 They can maintain custom responses there:
-<img src="https://user-images.githubusercontent.com/19658/267919329-a9c1c4a5-0e64-477f-a056-b985adf182b2.gif" witdh=500 />
+
+<img src="https://user-images.githubusercontent.com/19658/267919329-a9c1c4a5-0e64-477f-a056-b985adf182b2.gif" width=500 />
 
 Invite the app's bot user to the channels where you'd like to enable this app.
 Now it's ready!
 Whenever an end-user posts a message that contains a registered keyword in the channel, the app replies to it using the registered response text.
-<img src="https://user-images.githubusercontent.com/19658/267919397-d177ba9f-9975-46ce-b100-8f22ed6eef5a.gif" witdh=500 />
+
+<img src="https://user-images.githubusercontent.com/19658/267919397-d177ba9f-9975-46ce-b100-8f22ed6eef5a.gif" width=500 />
 
 ## How to run the app
 
